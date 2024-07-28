@@ -1,0 +1,1 @@
+SELECT * FROM Empl WHERE comm IS NULL;
